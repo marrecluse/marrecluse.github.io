@@ -12,6 +12,4 @@ I am undergrad CS student learning Web technologies and system administration.<b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[(https://www.instagram.com/marrecluse/))](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in )
