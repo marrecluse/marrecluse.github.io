@@ -11,10 +11,7 @@ I am undergrad CS student learning Web technologies and system administration.<b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fdevm3m3%2Fposts%2F1335706650122842%3A0&psig=AOvVaw1pGH9SBqneDHCYixl9taQt&ust=1685861490740000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiBgc_Bpv8CFQAAAAAdAAAAABAD" width="512px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=marrecluse &icon=0&color=0)](https://visitcount.itsvg.in)
+[![(https://www.instagram.com/marrecluse/))](https://visitcount.itsvg.in)
 
 Proudly created with GPRM ( https://gprm.itsvg.in )
