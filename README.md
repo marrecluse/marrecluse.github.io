@@ -2,7 +2,6 @@
 I am undergrad CS student learning Web technologies and system administration.<br>My domain include Web, Linux, Bash scripting, VMs, Containers, VOIP and AWS cloud leading to DevOps.
 
 
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/marrecluse) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marrecluse?igshid=MzNlNGNkZWQ4Mg==) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/marrecluse) 
 
