@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am undergrad CS student learning Web technologies and system administration.<br>My domain include Web, Linux, Bash scripting, VMs, Containers, VOIP and AWS cloud.
+I am undergrad CS student learning Web technologies and system administration.<br>My domain include Web, Linux, Bash scripting, VMs, Containers, VOIP and AWS cloud leading to DevOps.
+
 
 
 ## 🌐 Socials:
