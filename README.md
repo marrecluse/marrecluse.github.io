@@ -1,2 +1,2 @@
 # 💫 About Me:
-undergrad CS student.
+Web and App Developer | Jr. System Admin 
