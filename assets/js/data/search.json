@@ -1,5 +1,21 @@
 [
   {
+    "title": "My First Blog",
+    "url": "/posts/my-first-blog/",
+    "categories": "Blogging",
+    "tags": "jekyll, chirpy, personal",
+    "date": "2025-05-29 08:44:19 +0800",
+    "content": "Write your content here"
+  },
+  {
+    "title": "Hello World: My Journey into Tech and Beyond",
+    "url": "/posts/hello-world!-my-journey-into-tech-and-beyond/",
+    "categories": "Introduction",
+    "tags": "portfolio, tech journey, linux, flutter, devops",
+    "date": "2025-05-28 15:00:00 +0800",
+    "content": "Welcome to my blog!  I’m Abdul, a Master’s student in Information Technology with a strong passion for building things that live on the internet — from mobile apps to web systems, and even IoT devi..."
+  },
+  {
     "title": "Customize the Favicon",
     "url": "/posts/customize-the-favicon/",
     "categories": "Blogging, Tutorial",

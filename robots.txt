@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://marrecluse.github.io/sitemap.xml
+Sitemap: http://0.0.0.0:4000/sitemap.xml
