@@ -1,8 +1,23 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About Me
+permalink: /about/
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 👋 Hi, I'm Abdul
+
+I'm a Master's student in Information Technology, passionate about:
+
+- 🔧 System administration & DevOps
+- 📱 Building cross-platform apps
+- ☁️ Cloud, Web, and IoT projects
+- 🐧 Linux and Open source
+
+This blog is my digital garden — a place to share what I build, learn, and break (sometimes).
+
+---
+
+<a href="/assets/docs/abdul-cv.pdf" download class="btn btn-outline-primary" style="margin-top: 20px;">
+  ⬇️ Download My CV
+</a>
+

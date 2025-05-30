@@ -29,7 +29,7 @@ github:
   username: marrecluse # change to your GitHub username
 
 twitter:
-  username: marrecluse  # change to your Twitter username
+  username: marrecluse # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -92,13 +92,14 @@ theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
-# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
+# will be added to a1ll media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://chirpy-img.netlify.app"
+# cdn: "https://chirpy-img.netlify.app" CDN disabled
+cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/commons/rahman-profile.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
