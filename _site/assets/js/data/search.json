@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Building this site: using Jekyll",
+    "url": "/posts/building-this-site-using-jekyll/",
+    "categories": "Portfolio",
+    "tags": "jekyll, chirpy, github pages, personal site, open source",
+    "date": "2025-06-02 03:58:53 +0800",
+    "content": "I was planning for building the personal portfolio site for the couple of months, now finally I am on the www with my  Building this site has been a rewarding experience for me, not just technicall..."
+  },
+  {
+    "title": "My Learning Setup and Tools",
+    "url": "/posts/my-learning-setup-and-tools/",
+    "categories": "Setup, Productivity",
+    "tags": "tools, linux, flutter, devops, workflow",
+    "date": "2025-06-02 02:27:58 +0800",
+    "content": "Hey there! 👋  I wanted to share the setup and tools I use daily to stay productive while learning and building something.    Operating System  I primarily use Linux (Ubuntu) as my main operating sy..."
+  },
+  {
+    "title": "Why <span class=\"marrecluse-style\">marrecluse</span>? The Story Behind My Alias",
+    "url": "/posts/why-'marrecluse'-the-story-behind-my-alias/",
+    "categories": "Reflections",
+    "tags": "alias, inspiration, recluze, personal, motivation",
+    "date": "2025-06-02 01:10:27 +0800",
+    "content": "When creating my online presence, I wanted a name that wasn’t just an identifier — but a statement, a tribute, and a reflection of my journey.  marrecluse = MAR + recluze  The name “marrecluse” is ..."
+  },
+  {
+    "title": "Hello World: My Journey into Tech and Beyond",
+    "url": "/posts/hello-world!-my-journey-into-tech-and-beyond/",
+    "categories": "Introduction",
+    "tags": "portfolio, tech journey, linux, flutter, devops",
+    "date": "2025-05-28 15:00:00 +0800",
+    "content": "Welcome to my blog!  I’m Abdul, a Master’s student in Information Technology with a strong passion for building things that live on the internet — from mobile apps to web systems, and even IoT devi..."
+  }
+  
+]
+

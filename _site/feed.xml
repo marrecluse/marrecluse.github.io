@@ -1,0 +1,121 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://0.0.0.0:4000/</id>
+  <title>Muhammad Abdul Rahman</title>
+  <subtitle>Sharing my journey of learning, building, and deploying real-world tech projects ...</subtitle>
+  <updated>2025-06-02T04:26:28+08:00</updated>
+  <author>
+    <name>Muhammad Abdul Rahman</name>
+    <uri>http://0.0.0.0:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://0.0.0.0:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Muhammad Abdul Rahman </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Building this site: using Jekyll</title>
+    <link href="http://0.0.0.0:4000/posts/building-this-site-using-jekyll/" rel="alternate" type="text/html" title="Building this site: using Jekyll" />
+    <published>2025-06-02T03:58:53+08:00</published>
+  
+    <updated>2025-06-02T03:58:53+08:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/building-this-site-using-jekyll/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/building-this-site-using-jekyll/" />
+    <author>
+      <name>Muhammad Abdul Rahman</name>
+    </author>
+
+  
+    
+    <category term="Portfolio" />
+    
+  
+
+  <summary>I was planning for building the personal portfolio site for the couple of months, now finally I am on the www with my  Building this site has been a rewarding experience for me, not just technically, but also emotionally — it’s a representation of who I am, what I’ve learned, and what I aim to share with the world.  Why Jekyll and Chirpy?  After exploring several static site generators, I chose...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>My Learning Setup and Tools</title>
+    <link href="http://0.0.0.0:4000/posts/my-learning-setup-and-tools/" rel="alternate" type="text/html" title="My Learning Setup and Tools" />
+    <published>2025-06-02T02:27:58+08:00</published>
+  
+    <updated>2025-06-02T02:27:58+08:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/my-learning-setup-and-tools/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/my-learning-setup-and-tools/" />
+    <author>
+      <name>Muhammad Abdul Rahman</name>
+    </author>
+
+  
+    
+    <category term="Setup" />
+    
+    <category term="Productivity" />
+    
+  
+
+  <summary>Hey there! 👋  I wanted to share the setup and tools I use daily to stay productive while learning and building something.    Operating System  I primarily use Linux (Ubuntu) as my main operating system. It’s lightweight, powerful, and perfect for:     Programming (Python, Flutter, Node.js)   Managing servers and Docker containers   Learning the OS fundamentals efficiently   System administratio...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Why <span class="marrecluse-style">marrecluse</span>? The Story Behind My Alias</title>
+    <link href="http://0.0.0.0:4000/posts/why-'marrecluse'-the-story-behind-my-alias/" rel="alternate" type="text/html" title="Why &amp;lt;span class=&amp;quot;marrecluse-style&amp;quot;&amp;gt;marrecluse&amp;lt;/span&amp;gt;? The Story Behind My Alias" />
+    <published>2025-06-02T01:10:27+08:00</published>
+  
+    <updated>2025-06-02T01:10:27+08:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/why-'marrecluse'-the-story-behind-my-alias/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/why-'marrecluse'-the-story-behind-my-alias/" />
+    <author>
+      <name>Muhammad Abdul Rahman</name>
+    </author>
+
+  
+    
+    <category term="Reflections" />
+    
+  
+
+  <summary>When creating my online presence, I wanted a name that wasn’t just an identifier — but a statement, a tribute, and a reflection of my journey.  marrecluse = MAR + recluze  The name “marrecluse” is a blend of two identities:     MAR: These are the initials of my full name — Muhammad Abdul Rahman. This represents me.   recluze: This is taken from the YouTube channel of Dr. Mohammad Nauman, known ...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Hello World: My Journey into Tech and Beyond</title>
+    <link href="http://0.0.0.0:4000/posts/hello-world!-my-journey-into-tech-and-beyond/" rel="alternate" type="text/html" title="Hello World: My Journey into Tech and Beyond" />
+    <published>2025-05-28T15:00:00+08:00</published>
+  
+    <updated>2025-05-28T15:00:00+08:00</updated>
+  
+    <id>http://0.0.0.0:4000/posts/hello-world!-my-journey-into-tech-and-beyond/</id>
+    <content type="text/html" src="http://0.0.0.0:4000/posts/hello-world!-my-journey-into-tech-and-beyond/" />
+    <author>
+      <name>Muhammad Abdul Rahman</name>
+    </author>
+
+  
+    
+    <category term="Introduction" />
+    
+  
+
+  <summary>Welcome to my blog!  I’m Abdul, a Master’s student in Information Technology with a strong passion for building things that live on the internet — from mobile apps to web systems, and even IoT devices that talk to the cloud.  Over the past few years, I’ve:     🧑‍💻 Contributed building cross-platform apps using Flutter   🖥️ Explored system administration and Linux internals   ☁️ Dived into DevOp...</summary>
+
+  </entry>
+
+</feed>
+
+
