@@ -4,9 +4,9 @@ refactor: true
 ---
 
 {% include lang.html %} {% assign all_pinned = site.posts | where: 'pin', 'true'
-%} {% assign all_normal = site.posts | sort: 'date' | where_exp: 'item',
-'item.pin != true and item.hidden != true' %} {% assign posts = '' | split: ''
-%}
+%} {% assign all_normal = site.posts | sort: 'date' | reverse |where_exp:
+'item', 'item.pin != true and item.hidden != true' %} {% assign posts = '' |
+split: '' %}
 
 <!-- Get pinned posts on current page -->
 
@@ -51,7 +51,9 @@ all_normal[i] %} {% endfor %} {% endif %}
 
       <div class="col-md-{{ card_body_col }}">
         <div class="card-body d-flex flex-column">
-          <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
+          <h1 class="card-title my-2 mt-md-0">
+            {{ post.title | markdownify }}
+          </h1>
 
           <div class="card-text content mt-0 mb-3">
             <p>{% include post-description.html %}</p>

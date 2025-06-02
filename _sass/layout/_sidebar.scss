@@ -6,6 +6,9 @@
 $btn-border-width: 3px;
 $btn-mb: 0.5rem;
 $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
+.btn-outline-secondary:hover {
+  background-color: white;
+}
 
 #sidebar {
   @include mx.pl-pr(0);

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Hello World: My Journey into Tech and Beyond"
+pin: false
+image: /assets/img/setup.jpg
+image_alt: "Preview image for the chat app blog post"
+
 date: 2025-05-28 12:00:00 +0500
 categories: [Introduction]
 tags: [portfolio, tech journey, linux, flutter, devops]
