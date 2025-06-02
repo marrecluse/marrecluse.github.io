@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://0.0.0.0:4000/</id>
+  <id>http://localhost:4000/</id>
   <title>Muhammad Abdul Rahman</title>
   <subtitle>Sharing my journey of learning, building, and deploying real-world tech projects ...</subtitle>
-  <updated>2025-06-02T04:26:28+08:00</updated>
+  <updated>2025-06-03T07:54:08+08:00</updated>
   <author>
     <name>Muhammad Abdul Rahman</name>
-    <uri>http://0.0.0.0:4000/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://0.0.0.0:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://0.0.0.0:4000/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Muhammad Abdul Rahman </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Building this site: using Jekyll</title>
-    <link href="http://0.0.0.0:4000/posts/building-this-site-using-jekyll/" rel="alternate" type="text/html" title="Building this site: using Jekyll" />
+    <link href="http://localhost:4000/posts/building-this-site-using-jekyll/" rel="alternate" type="text/html" title="Building this site: using Jekyll" />
     <published>2025-06-02T03:58:53+08:00</published>
   
     <updated>2025-06-02T03:58:53+08:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/building-this-site-using-jekyll/</id>
-    <content type="text/html" src="http://0.0.0.0:4000/posts/building-this-site-using-jekyll/" />
+    <id>http://localhost:4000/posts/building-this-site-using-jekyll/</id>
+    <content type="text/html" src="http://localhost:4000/posts/building-this-site-using-jekyll/" />
     <author>
       <name>Muhammad Abdul Rahman</name>
     </author>
@@ -45,13 +45,13 @@
   
   <entry>
     <title>My Learning Setup and Tools</title>
-    <link href="http://0.0.0.0:4000/posts/my-learning-setup-and-tools/" rel="alternate" type="text/html" title="My Learning Setup and Tools" />
+    <link href="http://localhost:4000/posts/my-learning-setup-and-tools/" rel="alternate" type="text/html" title="My Learning Setup and Tools" />
     <published>2025-06-02T02:27:58+08:00</published>
   
     <updated>2025-06-02T02:27:58+08:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/my-learning-setup-and-tools/</id>
-    <content type="text/html" src="http://0.0.0.0:4000/posts/my-learning-setup-and-tools/" />
+    <id>http://localhost:4000/posts/my-learning-setup-and-tools/</id>
+    <content type="text/html" src="http://localhost:4000/posts/my-learning-setup-and-tools/" />
     <author>
       <name>Muhammad Abdul Rahman</name>
     </author>
@@ -71,13 +71,13 @@
   
   <entry>
     <title>Why <span class="marrecluse-style">marrecluse</span>? The Story Behind My Alias</title>
-    <link href="http://0.0.0.0:4000/posts/why-'marrecluse'-the-story-behind-my-alias/" rel="alternate" type="text/html" title="Why &amp;lt;span class=&amp;quot;marrecluse-style&amp;quot;&amp;gt;marrecluse&amp;lt;/span&amp;gt;? The Story Behind My Alias" />
+    <link href="http://localhost:4000/posts/why-'marrecluse'-the-story-behind-my-alias/" rel="alternate" type="text/html" title="Why &amp;lt;span class=&amp;quot;marrecluse-style&amp;quot;&amp;gt;marrecluse&amp;lt;/span&amp;gt;? The Story Behind My Alias" />
     <published>2025-06-02T01:10:27+08:00</published>
   
     <updated>2025-06-02T01:10:27+08:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/why-'marrecluse'-the-story-behind-my-alias/</id>
-    <content type="text/html" src="http://0.0.0.0:4000/posts/why-'marrecluse'-the-story-behind-my-alias/" />
+    <id>http://localhost:4000/posts/why-'marrecluse'-the-story-behind-my-alias/</id>
+    <content type="text/html" src="http://localhost:4000/posts/why-'marrecluse'-the-story-behind-my-alias/" />
     <author>
       <name>Muhammad Abdul Rahman</name>
     </author>
@@ -95,13 +95,13 @@
   
   <entry>
     <title>Hello World: My Journey into Tech and Beyond</title>
-    <link href="http://0.0.0.0:4000/posts/hello-world!-my-journey-into-tech-and-beyond/" rel="alternate" type="text/html" title="Hello World: My Journey into Tech and Beyond" />
+    <link href="http://localhost:4000/posts/hello-world!-my-journey-into-tech-and-beyond/" rel="alternate" type="text/html" title="Hello World: My Journey into Tech and Beyond" />
     <published>2025-05-28T15:00:00+08:00</published>
   
-    <updated>2025-05-28T15:00:00+08:00</updated>
+    <updated>2025-06-02T15:30:23+08:00</updated>
   
-    <id>http://0.0.0.0:4000/posts/hello-world!-my-journey-into-tech-and-beyond/</id>
-    <content type="text/html" src="http://0.0.0.0:4000/posts/hello-world!-my-journey-into-tech-and-beyond/" />
+    <id>http://localhost:4000/posts/hello-world!-my-journey-into-tech-and-beyond/</id>
+    <content type="text/html" src="http://localhost:4000/posts/hello-world!-my-journey-into-tech-and-beyond/" />
     <author>
       <name>Muhammad Abdul Rahman</name>
     </author>
