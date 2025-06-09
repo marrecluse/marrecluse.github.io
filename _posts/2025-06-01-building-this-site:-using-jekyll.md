@@ -6,7 +6,7 @@ categories: [Portfolio]
 tags: [jekyll, chirpy, github pages, personal site, open source]
 ---
 
-I was planning for building the personal portfolio site for the couple of months, now finally I am on the www with my 
+I was planning for building the personal portfolio site for the couple of months, now finally I am on www.
 Building this site has been a rewarding experience for me, not just technically, but also emotionally — it’s a representation of who I am, what I’ve learned, and what I aim to share with the world.
 
 ## Why Jekyll and Chirpy?
