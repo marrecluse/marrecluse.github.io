@@ -11,9 +11,7 @@ permalink: /about/
 Foremost I am a Muslim and Pakistani, I'm a computer science graduate and currently pursuing my Master's degree in Information Technology, passionate about working in these areas:
 
 - 🔧 System administration & DevOps
-- ☁️ Cloud, Web, and IoT projects
-- 🐧 Linux and Open source
-- 🤖 AI and Machine Learning
+- 🐧 Open Source Intelligence-OSINT
 
 
 This blog is my digital garden — a place to share what I build, learn, and break (sometimes).
