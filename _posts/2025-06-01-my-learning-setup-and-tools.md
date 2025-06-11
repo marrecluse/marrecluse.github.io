@@ -27,7 +27,7 @@ I primarily use **Linux (Ubuntu)** as my main operating system. It’s lightweig
 
 - **VS Code**: My go-to code editor for almost everything. It has great extensions for languages, Git, and more.
 - **Android Studio**: Mainly for Flutter app development and testing.
-- **Terminal**: I love working in the terminal with tools like `netstat`, `vi`, `ssh` and utilities like `grep`.
+- **Terminal**: I love working in the terminal with tools like `netstat`, `vi`, `ssh`, `htop`, `systemctl`, `ufw`  and utilities like `grep`.
 
 ---
 
