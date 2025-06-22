@@ -1,0 +1,2 @@
+# Example cron job to run backup daily at 2am
+0 2 * * * /path/to/backup_tool.sh
