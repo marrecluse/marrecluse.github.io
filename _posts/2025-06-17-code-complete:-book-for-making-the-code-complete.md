@@ -6,9 +6,6 @@ categories: [Productivity, blog, programming, book-notes]
 tags: [devops, books, personal, code-complete, software-engineering, clean-code, programming]
 ---
 
-As I started the programming, to be very honest they were just the programs which was only supposed to run, nothing else. While there are many other crucial checks to consider at the time of coding, which we neglect in most of the cases. It's not just about the piece of code, it is more about programming style, software construction, coding standards, architecture, security, abstraction and SOLID principles etc. 
-
-
 When I started programming, to be very honest I just wanted to make things run. A green checkmark, no errors — that was success. But as I grew, I realized: **working code is only the beginning.**
 
 Reading *Code Complete* by Steve McConnell made me reflect on how much I was missing.
