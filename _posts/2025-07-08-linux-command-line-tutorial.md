@@ -44,12 +44,12 @@ tail file{2..3}.txt
 more file1.txt
 less file1.txt
 ```
-**`echo` and `>`** used for inserting the text into file, but using ``` > ``` will overwrite all existing content in the file with the new. So use ``` >> ``` instead, to append (adding text at the end).
-**cat** used to concatenate and display file content on the terminal.
-**head** for printing first 10 lines of the text. `10` is by default, you can change it to different using i.e ``` -n 15 ```
-**tail** same like head but for last 10 lines. use ```tail -f filename``` if you want to see if new lines of text are being added like in case of logs.
-**more** for printing the text of file which have more than 1 pages, use `spacebar` to go to the next page.
-**less** improved version of `more` involving use of arrow keys for scrolling up and down.
+- **`echo` and `>`** used for inserting the text into file, but using ``` > ``` will overwrite all existing content in the file with the new. So use ``` >> ``` instead, to append (adding text at the end).
+- **cat** used to concatenate and display file content on the terminal.
+- **head** for printing first 10 lines of the text. `10` is by default, you can change it to different using i.e ``` -n 15 ```
+- **tail** same like head but for last 10 lines. use ```tail -f filename``` if you want to see if new lines of text are being added like in case of logs.
+- **more** for printing the text of file which have more than 1 pages, use `spacebar` to go to the next page.
+- **less** improved version of `more` involving use of arrow keys for scrolling up and down.
 Use `nano` or `vim` to edit files.
 
 ### ✅ Step 3: Permissions & Ownership
@@ -58,8 +58,8 @@ Use `nano` or `vim` to edit files.
 chmod 640 file1.txt
 chown $USER:$USER file2.txt
 ```
-**chmod** Change file permissions (e.g., read/write/execute for user/group/others)
-**chown** for changing ownership and group of the file.
+- **chmod** Change file permissions (e.g., read/write/execute for user/group/others).
+- **chown** for changing ownership and group of the file.
 ### ✅ Step 4: Process & Services
 
 ```bash
@@ -69,10 +69,10 @@ kill -9 <PID>
 sudo systemctl status ssh
 sudo systemctl start ssh
 ```
-**ps aux** show all processes and filter using grep utility.
-**top** Live real-time view of processes.
-**kill -9** force kill the process
-**systemctl** start, stop, restart and check status of the system services.
+- **ps aux** show all processes and filter using grep utility.
+- **top** Live real-time view of processes.
+- **kill -9** force kill the process
+- **systemctl** start, stop, restart and check status of the system services.
 
 
 ### ✅ Step 5: Networking Commands
@@ -82,9 +82,9 @@ ping google.com
 netstat -tuln
 ip addr show
 ```
-**ping** test internet connectivity
-**netstat** show open ports and connections, `-tuln` shows TCP/UDP listening
-**ip addr show** display network interfaces and IPs
+- **ping** test internet connectivity
+- **netstat** show open ports and connections, `-tuln` shows TCP/UDP listening
+- **ip addr show** display network interfaces and IPs
 
 ### ✅ Step 6: Package Management (Debian/Ubuntu)
 
